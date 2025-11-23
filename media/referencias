@@ -1,0 +1,11 @@
+gorutines, que son, pequqeñas scooter corriendo con  2kb de stack, su stack crece o decrece con el uso de gorutines.
+nos permite ejecutar varias tareas en paralelo. sin afectar la ram o el cpu.
+
+Todo gira alrededor de 3 componentes claves:
+
+G = goroutine
+M = Machine, es un hilo del sistema operativo lo que realmente ejecuta el codigo
+P = processor, capacidad de procesamiento
+
+
+Goroutines por Dentro (Scheduler M:N)

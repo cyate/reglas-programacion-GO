@@ -1,5 +1,9 @@
 # reglas-programacion-GO
 
+<video width="320" height="240" controls>
+  <source src="media/Video_de_Café_Hipnótico_Generado.mp4" type="video/mp4">
+</video>
+
 ![Reglas de Programación en Go](reglas-go.png)
 
 ## Goroutines por Dentro (Scheduler M:N)
