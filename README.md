@@ -1,8 +1,6 @@
 # reglas-programacion-GO
 
-![Reglas de Programación en Go](img/reglas-go.png)
-
----
+![Reglas de Programación en Go](reglas-go.png)
 
 ## Goroutines por Dentro (Scheduler M:N)
 
