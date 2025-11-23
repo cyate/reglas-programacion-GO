@@ -1,8 +1,6 @@
 # reglas-programacion-GO
 
-<video width="320" height="240" controls>
-  <source src="media/Video_de_Café_Hipnótico_Generado.mp4" type="video/mp4">
-</video>
+<!-- Para agregar el video: Ve a GitHub.com, edita este archivo y arrastra el video aquí -->
 
 ![Reglas de Programación en Go](reglas-go.png)
 
