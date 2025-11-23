@@ -4,6 +4,10 @@
 
 ![Reglas de Programación en Go](reglas-go.png)
 
+
+https://github.com/user-attachments/assets/f8b8a0e3-cd4e-4a1f-afc4-ad8cc6c6a20c
+
+
 ## Goroutines por Dentro (Scheduler M:N)
 
 ### ¿Qué son las Goroutines?
