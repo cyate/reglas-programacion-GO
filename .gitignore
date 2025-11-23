@@ -47,6 +47,3 @@ go.work.sum
 
 # !Makefile
 
-# ...even if they are in subdirectories
-!*/
-
